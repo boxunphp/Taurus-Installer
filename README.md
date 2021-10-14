@@ -1,2 +1,6 @@
 # Taurus-Installer
-Taurus的安装命令
+
+Taurus application installer.
+
+## Documentation
+

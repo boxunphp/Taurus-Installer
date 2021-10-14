@@ -1,0 +1,25 @@
+{
+    "name": "boxunphp/taurus-installer",
+    "description": "Taurus application installer.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Taurus\\Installer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jordy",
+            "email": "arno.zheng@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "symfony/console": "^5.0",
+        "symfony/process": "^5.0"
+    },
+    "bin": [
+        "bin/taurus"
+    ]
+}
