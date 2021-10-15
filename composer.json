@@ -1,7 +1,7 @@
 {
     "name": "boxunphp/taurus-installer",
     "description": "Taurus application installer.",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
